@@ -1,0 +1,12 @@
+{
+    "name": "mn/testing B",
+    "description": "no descript",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "huynhtuson",
+            "email": "huynhtuson@gmail.com"
+        }
+    ],
+    "require": {},    
+}
